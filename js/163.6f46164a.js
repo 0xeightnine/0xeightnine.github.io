@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpi_site"]=self["webpackChunkpi_site"]||[]).push([[163],{2163:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var r=t(6768);const s={class:"projects-view"};function c(e,n,t,c,i,u){return(0,r.uX)(),(0,r.CE)("div",s)}var i={name:"ProjectsView"},u=t(1241);const a=(0,u.A)(i,[["render",c]]);var o=a}}]);
+//# sourceMappingURL=163.6f46164a.js.map
